@@ -1,0 +1,7 @@
+TASK
+
+https://github.com/cctech-labs/challenges/blob/master/2020/06/hiring/data_science.md
+
+files:
+DATASET 1 - Regression problem
+DATASET 2 - Classification problem
